@@ -1,0 +1,8 @@
+README.md
+setup.py
+stackLib/__init__.py
+stackLib/myfunctions.py
+stackLib.egg-info/PKG-INFO
+stackLib.egg-info/SOURCES.txt
+stackLib.egg-info/dependency_links.txt
+stackLib.egg-info/top_level.txt

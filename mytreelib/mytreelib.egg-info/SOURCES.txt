@@ -1,0 +1,8 @@
+README.md
+setup.py
+mytreelib/__init__.py
+mytreelib/myfunctions.py
+mytreelib.egg-info/PKG-INFO
+mytreelib.egg-info/SOURCES.txt
+mytreelib.egg-info/dependency_links.txt
+mytreelib.egg-info/top_level.txt

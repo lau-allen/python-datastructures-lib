@@ -1,0 +1,8 @@
+README.md
+setup.py
+myqueueLib/__init__.py
+myqueueLib/myfunctions.py
+myqueueLib.egg-info/PKG-INFO
+myqueueLib.egg-info/SOURCES.txt
+myqueueLib.egg-info/dependency_links.txt
+myqueueLib.egg-info/top_level.txt
